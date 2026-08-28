@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nassimoutaleb74@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nassim-outaleb-8a873a373/](https://www.linkedin.com/in/nassim-outaleb-8a873a373/)
+- 📄 Know about my experiences [www.linkedin.com/in/nassim-outaleb-8a873a373](www.linkedin.com/in/nassim-outaleb-8a873a373)
 
 - ⚡ Fun fact **I have no fun facts**
 
