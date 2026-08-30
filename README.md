@@ -1,19 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Outaleb Nassim
-=======================================================================================================================================
+# Outaleb Nassim
 
-Computer Engineering Student & Frontend Developer from Morocco
---------------------------------------------------------------
+**Computer Engineering Student & Developer**
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [nassimoutaleb74@gmail.com](mailto:nassimoutaleb74@gmail.com)
-* 🧠  I'm currently learning web developping
+I Am a Computer Engineering Student & Developer from Morocco - EMSI
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="48" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="48" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="48" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="48" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="48" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="48" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="48" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="48" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="48" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="48" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="48" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="48" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="48" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="48" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="48" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="48" height="36" /></a>
-</p>
+Location: Morco · Experience: 4+ Years of programming experience · Learning: Data structures, web development, and open source contribution
 
-### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-outaleb-8a873a373) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nassimoutaleb74@gmail.com)
 
-<p align="left"> <a href="https://www.github.com/sacapuntas96" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nassim-outaleb-8a873a373" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/sacapuntas96" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sacapuntas96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## Snapshot
+
+- ⌖ **Location** · Morco
+- ⌗ **Experience** · 4+ Years of programming experience
+- ◎ **Education** · Moroccan School of ingeneering Sciences (EMSI)
+- ⟳ **Learning** · Data structures, web development, and open source contribution
+
+## Featured Work
+
+- [TeeOne](https://github.com/Sacapuntas96/TeeOne.git) — TeeOne is a lightweight web app for people with type 1 diabetes to track their carbohydrate intake and calculate insulin dosage in real time.
+
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,rust,bash,css,html,cs,java&theme=dark" alt="Languages"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,linux&theme=dark" alt="DevOps & Cloud"/>
+
+## Languages
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+- 🇫🇷 **French** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇪🇸 **Spanish** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+
+## GitHub Signals
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sacapuntas96&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true" alt="Outaleb Nassim stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacapuntas96&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Outaleb Nassim top languages"/>
+
+[Say hello](https://www.linkedin.com/in/nassim-outaleb-8a873a373) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
