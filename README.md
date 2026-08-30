@@ -4,13 +4,13 @@
 
 I Am a Computer Engineering Student & Developer from Morocco - EMSI
 
-Location: Morco · Experience: 4+ Years of programming experience · Learning: Data structures, web development, and open source contribution
+Location: Morocco · Experience: 4+ Years of programming experience · Learning: Data structures, web development, and open source contribution
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-outaleb-8a873a373) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nassimoutaleb74@gmail.com)
 
 ## Snapshot
 
-- ⌖ **Location** · Morco
+- ⌖ **Location** · Morocco
 - ⌗ **Experience** · 4+ Years of programming experience
 - ◎ **Education** · Moroccan School of ingeneering Sciences (EMSI)
 - ⟳ **Learning** · Data structures, web development, and open source contribution
