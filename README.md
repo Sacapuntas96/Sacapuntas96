@@ -1,62 +1,60 @@
 <h1 align="center">Nassim Outaleb</h1>
+
 <p align="center"><b>Computer Engineering Student & Developer</b></p>
 
 <p align="center">
-  Computer Engineering student and developer from Morocco, studying at EMSI (Moroccan School of Engineering Sciences).
+  Computer Engineering student and developer from Morocco, studying at EMSI (Moroccan School of Engineering Sciences).<br>
   Currently deepening my knowledge of data structures, web development, and open source contribution.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nassim-outaleb-8a873a373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nassimoutaleb74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/nassim-outaleb-8a873a373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nassimoutaleb74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<br>
 
-### 📌 Snapshot
+<h2 align="center">Featured Work</h2>
 
-| | |
-|---|---|
-| 📍 **Location** | Morocco |
-| 💼 **Experience** | 4+ years of programming experience |
-| 🎓 **Education** | Moroccan School of Engineering Sciences (EMSI) |
-| 🔄 **Currently Learning** | Data structures, web development, open source contribution |
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <br>
+      <a href="https://github.com/Sacapuntas96/Ustadi"><b>Ustadi</b></a>
+      <br><br>
+      An online website that allows private tutors and students all over Morocco to meet
+      <br><br>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🚀 Featured Work
+<h2 align="center">Stack</h2>
 
-**[TeeOne](https://github.com/Sacapuntas96/TeeOne)** — A lightweight web app for people with type 1 diabetes to track carbohydrate intake and calculate insulin dosage in real time.
+<p align="center"><sub>LANGUAGES</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,rust,bash,css,html,cs,java" alt="Python, JavaScript, Rust, Bash, CSS, HTML, C#, Java"/>
+</p>
 
----
+<p align="center"><sub>BACKEND & DATABASES</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
 
-### 🛠️ Stack
+<p align="center"><sub>DEVOPS & CLOUD</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux" alt="Git, VS Code, Figma, Linux"/>
+</p>
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
 
-**Backend & Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center">Languages</h2>
 
-**DevOps & Cloud**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🌍 Languages
-
-| Language | Level |
-|---|---|
-| 🇬🇧 English | ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square) |
-| 🇫🇷 French | ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square) |
-| 🇪🇸 Spanish | ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square) |
+<table align="center">
+  <tr>
+    <td align="center">🇬🇧 English<br><br><img src="https://img.shields.io/badge/-Advanced-66bb6a?style=for-the-badge" alt="Advanced"/></td>
+    <td align="center">🇫🇷 French<br><br><img src="https://img.shields.io/badge/-Native-00e87a?style=for-the-badge" alt="Native"/></td>
+    <td align="center">🇪🇸 Spanish<br><br><img src="https://img.shields.io/badge/-Conversational-ff8c42?style=for-the-badge" alt="Conversational"/></td>
+  </tr>
+</table>
