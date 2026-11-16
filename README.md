@@ -18,7 +18,7 @@
 
 <table align="center">
   <tr>
-    <td align="left" width="600">
+    <td align="center" width="600">
       <br>
       <a href="https://github.com/Sacapuntas96/Ustadi"><b>Ustadi</b></a>
       <br><br>
