@@ -1,60 +1,58 @@
-<h1 align="center">Nassim Outaleb</h1>
+<h1>OUTALEB Nassim</h1>
 
-<p align="center"><b>Computer Engineering Student & Developer</b></p>
+<p><b>Cybersecurity Ingeneer Student & Full Stack Developer</b></p>
 
-<p align="center">
-  Computer Engineering student and developer from Morocco, studying at EMSI (Moroccan School of Engineering Sciences).<br>
-  Currently deepening my knowledge of data structures, web development, and open source contribution.
+<p>
+  Hi, I'm a cybersecurity engineering student and full stack developer from Casablanca (Morocco), currently studying at EMSI (Ecole Marocaine des Sciences de l'Ingénieur).<br><br>
+  Learning about databases and data structures, web development, and open source contribution.<br><br>
 </p>
+<h2>
+  My Contacts</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/nassim-outaleb-8a873a373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nassimoutaleb74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
 
-<h2 align="center">Featured Work</h2>
+<h2>Projects i'm currently working on</h2>
+<a href="https://github.com/Sacapuntas96/Ustadi">
+  <img src="https://img.shields.io/badge/Ustadi-view%20on%20GitHub-444?style=flat-square&logo=github&logoColor=white" alt="Ustadi"/>
+</a>
+<img width="1893" height="576" alt="image" src="https://github.com/user-attachments/assets/608ec776-0165-4a3c-91f4-afafc50602f1" />
 
-<table align="center">
-  <tr>
-    <td align="center" width="600">
-      <br>
-      <a href="https://github.com/Sacapuntas96/Ustadi"><b>Ustadi</b></a>
-      <br><br>
-      An online website that allows private tutors and students all over Morocco to meet
-      <br><br>
-    </td>
-  </tr>
-</table>
+<br><p><b>An online plateform for Moroccan students to find the appropriate private tutors</b></p>
 
 <br>
 
-<h2 align="center">Stack</h2>
+<h2>Stack</h2>
 
-<p align="center"><sub>LANGUAGES</sub></p>
-<p align="center">
+<p><sub>LANGUAGES</sub></p>
+<p>
   <img src="https://skillicons.dev/icons?i=py,js,rust,bash,css,html,cs,java" alt="Python, JavaScript, Rust, Bash, CSS, HTML, C#, Java"/>
 </p>
 
-<p align="center"><sub>BACKEND & DATABASES</sub></p>
-<p align="center">
+<p><sub>BACKEND & DATABASES</sub></p>
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 </p>
 
-<p align="center"><sub>DEVOPS & CLOUD</sub></p>
-<p align="center">
+<p><sub>DEVOPS & CLOUD</sub></p>
+<p>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux" alt="Git, VS Code, Figma, Linux"/>
 </p>
+<h2>Languages</h2>
 
-<br>
-
-<h2 align="center">Languages</h2>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center">🇬🇧 English<br><br><img src="https://img.shields.io/badge/-Advanced-66bb6a?style=for-the-badge" alt="Advanced"/></td>
-    <td align="center">🇫🇷 French<br><br><img src="https://img.shields.io/badge/-Native-00e87a?style=for-the-badge" alt="Native"/></td>
-    <td align="center">🇪🇸 Spanish<br><br><img src="https://img.shields.io/badge/-Conversational-ff8c42?style=for-the-badge" alt="Conversational"/></td>
+    <td>🇫🇷 <b>French</b></td>
+    <td>🇬🇧 <b>English</b></td>
+    <td>🇪🇸 <b>Spanish</b></td>
+  </tr>
+  <tr>
+    <td>Native</td>
+    <td>Advanced</td>
+    <td>Conversational</td>
   </tr>
 </table>
